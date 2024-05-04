@@ -1,0 +1,15 @@
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\bin\Debug\net6.0\icao.exe
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\bin\Debug\net6.0\icao.deps.json
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\bin\Debug\net6.0\icao.runtimeconfig.json
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\bin\Debug\net6.0\icao.dll
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\bin\Debug\net6.0\icao.pdb
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\obj\Debug\net6.0\icao.csproj.AssemblyReference.cache
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\obj\Debug\net6.0\icao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\obj\Debug\net6.0\icao.AssemblyInfoInputs.cache
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\obj\Debug\net6.0\icao.AssemblyInfo.cs
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\obj\Debug\net6.0\icao.csproj.CoreCompileInputs.cache
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\obj\Debug\net6.0\icao.dll
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\obj\Debug\net6.0\refint\icao.dll
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\obj\Debug\net6.0\icao.pdb
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\obj\Debug\net6.0\icao.genruntimeconfig.cache
+C:\Users\Ayman\Documents\programming-from-college\bigdataprog\airplane\icao\icao\obj\Debug\net6.0\ref\icao.dll

@@ -1,0 +1,57 @@
+2-7-2024 Initial Meeting with the prof
+
+
+Report feedback:
+See the data input/output in detail, think back to what the categories are for each one.
+All code has to be included in the report
+Try to include seperate sections for the data set and method
+Try to do more interpretation of the stuff you do
+Try using all drugs rather than one
+Include different sections in report for result, method, and other content
+Try to interpret table 2 that is the comparison of drug orchestra compared to other models
+Try to explore motivation and real world applications in the paper
+
+2-28-2024 Second meeting
+This is due on the 8th 9th march is the next meeting
+The next task will be do to do to look at the non data summary for each drug bank and do dimensionaloty reduction using SVD/PCA to make it faster to do the classifiers. Do all the classifieres on the AUROC data results in the paper and all the regression models on the MSE SCC data results in the paper. Validate their experimental split and do it 10 times. Use same evaulation metrics. Essentially do the experiment again but with the classifiers and regression models we learned in class. Jamboards have what we have covered so are usually on the first slide. Copy their table two results, add new column and add new for our results and show which one is better and why(aka accuracy avg +- stand dev). No need to make a new report.
+
+4-3-2024 Third meeting
+now we have to do the third table. We are trying to calculate the performance gain. You get that using the percentage gain which is the new value- previous value all divided by prev val. So we are cross training the dataset against another dataset, hence forth why PDX PDX is 0. We get the performance gain for all of the models. So one table per model. But go in order of What we think is best to what we think is worst. Take two dimension PCA on data and put it into a scatter plot to see if there are seperations. For table 4 we can use the cheapest computational data(naive bayes) to most expensive.
+
+NB finished
+0.5
+Performance Gain Matrix:
+drugbank, offside, stitch, repur, sider
+[
+drugbank[0.         0.5        0.49988905 0.52080657 0.49846347]
+offside [0.5        0.         0.5        0.5        0.59694922]
+stitch [0.5        0.5        0.         0.5        0.5       ]
+repur [0.49998118 0.49814274 0.49989468 0.         0.5       ]
+siders [0.5        0.54382593 0.5        0.5        0.        ]]
+
+knn
+drugbank, offside, stitch, repur, sider
+[
+DRUGBANK[0.         0.51057373 0.4984691  0.49654983 0.51139176]
+ offside[0.42311653 0.         0.50412822 0.49992659 0.56339317]
+ stitch[0.52312854 0.50014191 0.         0.50010552 0.50113595]
+ repur[0.49909963 0.50270704 0.50137929 0.         0.51172677]
+ sider[0.56084386 0.50912222 0.5        0.50000918 0.        ]]
+
+Decision trees
+drugbank, offside, stitch, repur, sider
+[
+db[0.         0.50603736 0.50181244 0.53574509 0.51103874]
+ offside[0.49996943 0.         0.49035161 0.49832079 0.53185329]
+ stitch[0.50109253 0.49342575 0.         0.50292714 0.51098282]
+ repur[0.49171796 0.50375096 0.49885324 0.         0.5155927 ]
+ sider[0.57212823 0.5169875  0.49770874 0.42402276 0.        ]]
+
+Logistic
+drugbank, offside, stitch, repur, sider
+[
+db[0.         0.51061327 0.49986925 0.5        0.50536565]
+offside [0.49998826 0.         0.5        0.47237108 0.52857693]
+ stitch[0.5        0.50616932 0.         0.5        0.52107195]
+ repur[0.5        0.50224041 0.5        0.         0.50536565]
+ sider[0.5        0.50447021 0.49997574 0.5        0.        ]]

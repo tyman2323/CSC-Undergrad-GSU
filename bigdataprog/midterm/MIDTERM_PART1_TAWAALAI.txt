@@ -1,0 +1,17 @@
+Data Scientist Scenarios:
+12. What is the distribution of the location of cancer among female patients? For example, how many samples are from the kidney, bone marrow, lung, or pancreas? The distribution of the locations were uniform. There are 3 in the bone, 3 in the kidney, 2 in the lung, and 2 in the pancreas.
+
+
+16. In the subset of female patients, what type of cancer is caused by the TP53 mutation?  Pancreatic cancer
+
+21. Which two types of cancer in the dataset are caused by the BRAF mutation? Pancreatic and Skin cancer
+
+25. Using these results, what treatment options might be recommended for each of these patients? For patient F surgical removal and observation is recommended. For patient U surgical removal and observation is recommended. For patient S it is that same as U with the addition of radiation.
+
+36. Which patients (sample_source) have kidney cancer with a non-annotated substitution mutation? Patients J and P 
+
+40. Using these results and the information you have, what treatment options might you recommend for each of these patients? For patient J radiation, surgical removal and observation is recommended. For patient P ipilimumab with nivolumab is recommended
+
+44. What is the sex ratio (male to female) of the lung cancer patients in this dataset? The male to female ratio is 50/50
+
+49. What is the sex ratio (male to female) of the lung cancer patients in this dataset? Patients C and M.

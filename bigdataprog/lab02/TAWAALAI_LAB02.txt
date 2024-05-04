@@ -1,0 +1,10 @@
+Q1: It has been executed when the number within the brackets increase
+
+Q2:I see the same output from when the call and function were in the same cell, where it prints my name.
+
+Q3: The label went away and adjusted itself to being a markdown.
+
+Q4:Hello, Ayman Tawaalai! 92 cubed is 778688
+
+Q5: What are the names of the columns in your data frame, and
+how many rows does it have?

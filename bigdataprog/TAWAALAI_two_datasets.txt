@@ -1,0 +1,10 @@
+Date set 1
+https://www.kaggle.com/datasets/thedevastator/airplane-crashes-and-fatalities
+Airplane Crashes and Fatalities
+This dataset will serve as a starting off point of well known aircraft accidents and can serve as a baseline for airplane hazards. 
+Although it is from kaggle, research will be done into finding sources of the data or abandoning the data in favor of a more credible source once it has served its purpose as a starting off point.
+
+Data set 2
+https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
+Motor Vehicle Collisions - Crashes
+This data set comes from the city of new york and contains crash data within the city. Because of its high population and density it will serve as a starting off point when looking into accident information from cars.

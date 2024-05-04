@@ -1,0 +1,12 @@
+Test Starts Here
+Car in lot #1
+Car in lot #2
+Car in lot #3
+Car in lot #4
+Car in lot #5
+Car in lot #6
+Car in lot #7
+Car in lot #8
+No Car in lot #9
+Car in lot #10
+Car in lot #11

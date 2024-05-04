@@ -1,0 +1,6 @@
+24. Are the top scorers also the top defenders? 
+Consider what it would be like if it were your job to look at data like this and make decisions about the best players? Is it always a clear choice? The top scorers are typically not the top defenders. However, they score really well on defense even if they are not the top. The decision I would make would be based on what metric the "best" is being determined now. 
+arn:aws:cloudformation:us-west-2:475588468086:stack/c108113a2542693l5997588t1w475588468086/4c4eece0-d7d9-11ee-ad40-02e23a17a6d7
+Creation Time: 2024-03-01T06:37:58-0800
+26. SELECT name, weight_lbs, defending FROM soccer_data ORDER BY finishing DESC and SELECT name, weight_lbs, defending FROM soccer_data ORDER BY finishing DESC show that better defending players typically weigh more but there is no impact on attacking.
+SELECT name, mentality, aggression, vision FROM soccer_data ORDER BY finishing DESC shows that vision and aggression do play a hand in one another for who has a stronger mentality.
